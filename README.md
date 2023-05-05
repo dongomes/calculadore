@@ -1,3 +1,1 @@
 # calculadore
-# calculadore
-# calculadore
